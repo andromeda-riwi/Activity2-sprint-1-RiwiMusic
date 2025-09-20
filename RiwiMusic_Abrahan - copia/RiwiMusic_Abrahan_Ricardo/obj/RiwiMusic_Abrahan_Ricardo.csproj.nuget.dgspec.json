@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj": {}
+    "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj": {
+    "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj",
+        "projectUniqueName": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj",
         "projectName": "RiwiMusic_Abrahan_Ricardo",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\obj\\",
+        "projectPath": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj",
+        "packagesPath": "/home/coders/.nuget/packages/",
+        "outputPath": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/coders/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
