@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/coders/.nuget/packages/": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj",
       "projectName": "RiwiMusic_Abrahan_Ricardo",
-      "projectPath": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/RiwiMusic_Abrahan_Ricardo.csproj",
-      "packagesPath": "/home/coders/.nuget/packages/",
-      "outputPath": "/home/coders/Documentos/music/Activity2-sprint-1-RiwiMusic/RiwiMusic_Abrahan - copia/RiwiMusic_Abrahan_Ricardo/obj/",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\RiwiMusic_Abrahan_Ricardo.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Documentos\\RiwiMusic_Abrahan\\RiwiMusic_Abrahan_Ricardo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/coders/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
