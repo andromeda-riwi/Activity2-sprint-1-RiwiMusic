@@ -34,9 +34,13 @@ Antes de la implementación, el sistema fue diseñado utilizando diagramas UML p
 
 Este diagrama muestra cómo el **Administrador** interactúa con el sistema, delineando todas las funcionalidades clave desde la perspectiva del usuario.
 
+![Descripción del Diagrama de Casos de Uso](images/use_case_diagram.png)
+
 ### Diagrama de Clases
 
 Este diagrama representa la estructura estática del proyecto, mostrando las clases principales, sus atributos y las relaciones entre ellas. Define la lógica del negocio en la clase **`MusicManagementService`** y la estructura de datos en **`DataStore`**, que interactúan con las clases de modelos como **`Customer`**, **`Concert`** y **`TicketPurchase`**.
+
+![Descripción del Diagrama de Clases](images/diagram_class.png)
 
 -----
 
