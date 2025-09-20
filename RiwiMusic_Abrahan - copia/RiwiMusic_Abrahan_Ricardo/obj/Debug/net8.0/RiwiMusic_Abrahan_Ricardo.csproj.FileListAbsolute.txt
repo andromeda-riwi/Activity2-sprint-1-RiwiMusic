@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\bin\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.exe
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\bin\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.deps.json
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\bin\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\bin\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.dll
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\bin\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.pdb
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.dll
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\refint\RiwiMusic_Abrahan_Ricardo.dll
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.pdb
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\RiwiMusic_Abrahan_Ricardo.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\RiwiMusic_Abrahan\RiwiMusic_Abrahan_Ricardo\obj\Debug\net8.0\ref\RiwiMusic_Abrahan_Ricardo.dll
